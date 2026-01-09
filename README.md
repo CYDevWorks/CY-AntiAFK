@@ -37,3 +37,5 @@ Config.CaptchaTimeout = 60    -- Time in seconds to solve the Captcha before kic
 ## Dependencies
 
 *   **VORP Core** (Required for the notification system used in `client.lua`. If you use another framework, simple change the `TriggerEvent("vorp:TipRight", ...)` lines).
+
+
